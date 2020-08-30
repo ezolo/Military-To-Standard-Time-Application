@@ -18,7 +18,8 @@
 
 ### 2️⃣ Entering Minutes ###
 > Next users will need to enter the amount of minutes.
-![](https://i.imgur.com/uTWpPN0.png)
+>
+>![](https://i.imgur.com/uTWpPN0.png)
 
 
 
