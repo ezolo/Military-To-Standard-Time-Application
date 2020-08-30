@@ -25,7 +25,8 @@
 
 ### 3️⃣ Entering Delay Time ###
 >After all is said and done, users will be able to enter any delay time (if need be).
-![](https://i.imgur.com/XBCdNxt.png)
+>
+>![](https://i.imgur.com/XBCdNxt.png)
 
 
 ### 4️⃣ Conversion Displayed ###
